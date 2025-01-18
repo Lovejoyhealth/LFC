@@ -1,0 +1,24 @@
+[
+    {
+        "post": {
+            "text": "Democracy and Tik Tok are still alive in Norway and most of Europe and Asia. It's just that 4th world banana republic the \"United States\" that's losing them.",
+            "$type": "app.bsky.feed.post",
+            "langs": [
+                "en"
+            ],
+            "reply": {
+                "root": {
+                    "cid": "bafyreigonae22hmkpuzw3egxy3tpb6xdte32xwgsrutzrvqeh25xrw7ejq",
+                    "uri": "at://did:plc:52x7zvucxp3x7u4ohjuugvk2/app.bsky.feed.post/3lfzureu2ac2g"
+                },
+                "parent": {
+                    "cid": "bafyreigonae22hmkpuzw3egxy3tpb6xdte32xwgsrutzrvqeh25xrw7ejq",
+                    "uri": "at://did:plc:52x7zvucxp3x7u4ohjuugvk2/app.bsky.feed.post/3lfzureu2ac2g"
+                }
+            },
+            "createdAt": "2025-01-18T17:58:25.027Z"
+        },
+        "sentiment": "negative",
+        "insights": "The user expresses a negative view of the United States, implying a loss of democratic values and social media presence, which could reflect a broader dissatisfaction with the country's political and social climate."
+    }
+]
